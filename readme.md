@@ -1,5 +1,5 @@
 ## Login e Cadastro com Firebase
-#### O projeto apresenta um sistema de autenticação com o FirebaseAuth utilizando E-mail e Senha. Apresenta uma tela de Cadastro para que usuário Insira seu nome, e-mail e senha. Os dados serão armazenados no RealtimeDatabase e será gerado uma nova conta de autenticação no FirebaseAuth. Na ActivityMain o usúario poderá escolher uma foto da galeria ou tirar uma foto da câmera, a foto será armazenada no Cloud Storage do Firebase. O nome do usuário poderá ser atualizado. Na ActivityMain o usuário poderá deslogar.
+#### O projeto apresenta um sistema de autenticação com o FirebaseAuth utilizando E-mail e Senha. Apresenta uma tela de cadastro em que o usuário insere seu nome, e-mail e senha. Os dados serão armazenados no RealtimeDatabase e será gerada uma nova conta de autenticação no FirebaseAuth. Na ActivityMain o usúario poderá escolher uma foto da galeria ou tirar uma foto da câmera, a foto será armazenada no Cloud Storage do Firebase. O nome do usuário poderá ser atualizado. Na ActivityMain o usuário poderá deslogar.
 ---
 ## Preparação
 ---
@@ -7,7 +7,7 @@
 - criar um projeto no Firebase e vincular ao app
 - implentar os serviços Auth, Storage e RealtimeDatabase
 ---
-## Package Config
+## Package config
 ---
 > ConfiguracaoFirebase
 ```bash
