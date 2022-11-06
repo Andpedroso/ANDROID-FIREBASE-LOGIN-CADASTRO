@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1052636992000",
+    "firebase_url": "https://agress-app0-default-rtdb.firebaseio.com",
+    "project_id": "agress-app0",
+    "storage_bucket": "agress-app0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052636992000:android:b8682710644f7d66167ee5",
+        "android_client_info": {
+          "package_name": "andpedroso.android.firebasedatabaseauthstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052636992000-nusj40473tu7obuoc3nv5j8vpvv60hil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7qOWQCrzNIDVkLiYaSW4QqDU7_uDwwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052636992000-nusj40473tu7obuoc3nv5j8vpvv60hil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052636992000:android:82c6ab89143fb786167ee5",
+        "android_client_info": {
+          "package_name": "com.andpedroso.firebaselogincadastro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052636992000-nusj40473tu7obuoc3nv5j8vpvv60hil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7qOWQCrzNIDVkLiYaSW4QqDU7_uDwwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052636992000-nusj40473tu7obuoc3nv5j8vpvv60hil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052636992000:android:ada70c49ca088c37167ee5",
+        "android_client_info": {
+          "package_name": "com.andpedroso.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052636992000-nusj40473tu7obuoc3nv5j8vpvv60hil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7qOWQCrzNIDVkLiYaSW4QqDU7_uDwwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052636992000-nusj40473tu7obuoc3nv5j8vpvv60hil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

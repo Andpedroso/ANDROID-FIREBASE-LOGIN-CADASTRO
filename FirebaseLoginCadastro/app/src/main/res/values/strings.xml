@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseLoginCadastro</string>
+    <string name="email_stg">Digite seu E-mail</string>
+    <string name="senha_stg">Digite sua senha</string>
+    <string name="logar_stg">LOGAR</string>
+    <string name="cadastrar">Não cadastrado? Cadastre-se!</string>
+    <string name="nome_stg">Digite seu nome</string>
+    <string name="cadastro_usuario_stg">CADASTRAR</string>
+    <string name="nome_apelido_stg">Seu nome de usuário</string>
+    <string name="logout_stg">LOGOUT</string>
+</resources>
